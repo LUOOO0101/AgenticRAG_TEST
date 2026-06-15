@@ -1,0 +1,13 @@
+[
+  {
+    "record_id": "recviaE1Whm9gX",
+    "scores": {
+      "Accuracy": {"score": 5.0, "reason": "与evidence完全一致，准确陈述精英高等教育阶段重视学术型人才的事实"},
+      "Relevance": {"score": 5.0, "reason": "完全紧扣问题，直接回答所重视的人才类型，无无关扩展"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 4.5, "reason": "evidence中未包含相关细节，按宽松标准评分；核心知识点已完整呈现，但未标明适用年级/阶段"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": 4.5, "reason": "表达清晰简洁，术语准确，但未标明目标受众认知水平"}
+    }
+  }
+]

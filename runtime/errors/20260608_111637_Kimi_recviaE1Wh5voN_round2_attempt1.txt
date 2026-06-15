@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "recvviaE1Wh5voN",
+    "scores": {
+      "Accuracy": {"score": 5.0, "reason": "与evidence事实完全一致，小眼镜脱鞋递给齐夏的动作描述准确"},
+      "Relevance": {"score": 5.0, "reason": "完全围绕问题核心，直接回答运动鞋如何交给齐夏的过程"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 4.5, "reason": "覆盖evidence全部内容，但evidence中未包含'被齐夏要求'这一前提细节，按宽松标准评分"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": 5.0, "reason": "表述简洁清晰，动作链条完整无歧义"},
+      "Refuse": {"score": -1, "reason": "不涉及"}
+    }
+  }
+]

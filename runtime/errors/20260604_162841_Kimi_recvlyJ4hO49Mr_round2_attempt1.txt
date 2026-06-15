@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "recvlyJ4hO49Mr",
+    "scores": {
+      "Accuracy": {"score": 5.0, "reason": "与evidence完全一致，准确陈述了党中央北渡长江、前出川南、与红四方面军会合、开创川西或川西北革命根据地的决策内容"},
+      "Relevance": {"score": 5.0, "reason": "完全围绕用户问题，直接回答党中央做出的具体决定，无无关扩展"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 4.5, "reason": "evidence中未包含相关细节，按宽松标准评分；核心决策内容完整呈现，但未说明决策背景（摆脱包围的具体形势）"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": 4.5, "reason": "表述清晰，结构完整，术语准确，但"率师"一词对一般受众略显文言"},
+      "Refuse": {"score": -1, "reason": "不涉及"}
+    }
+  }
+]

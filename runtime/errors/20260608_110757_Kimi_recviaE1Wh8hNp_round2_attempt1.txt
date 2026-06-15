@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "recvviaE1Wh8hNp",
+    "scores": {
+      "Accuracy": {"score": 4.5, "reason": "核心事实与evidence一致，但evidence仅提及'职业针对性'这一核心点，answer扩展了与普通高等教育的区别、市场需求等内容，超出evidence，按宽松标准评分；扩展内容无明显事实错误"},
+      "Relevance": {"score": 5.0, "reason": "完全围绕'人才市场为何需要高等职业技术教育'展开，所有内容直接服务于问题核心"},
+      "Reason": {"score": 4.0, "reason": "存在可评估的推理链条：从培养目标→职业针对性→快速顶岗→满足市场需求，逻辑连贯；部分中间环节（如与普通教育对比）超出evidence，按宽松标准评分"},
+      "Completeness": {"score": 3.5, "reason": "evidence中仅包含核心定义点，未包含适用年级/阶段等边界信息，按宽松标准评分；但场景降分规则要求知识点未标明适用年级/阶段→2.5分上限，综合判定3.5分"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": 4.5, "reason": "结构清晰，分点明确，术语准确，层次分明，易于理解"},
+      "Refuse": {"score": -1, "reason": "不涉及"}
+    }
+  }
+]

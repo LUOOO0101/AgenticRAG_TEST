@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "recvviaE1WhXNpu",
+    "scores": {
+      "Accuracy": {"score": 4.8, "reason": "核心概念'类比'准确，与evidence一致，仅将'作比较'表述为'进行比较'属轻微措辞差异"},
+      "Relevance": {"score": 5.0, "reason": "完全围绕'如何理解古代无文字社会制度'这一问题，直接回应考古学家的研究方法"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 3.0, "reason": "evidence中未包含相关细节，按宽松标准评分；但回答仅提及类比方法，未说明'相同技术发展阶段'这一关键限定条件，完整性不足"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": 4.5, "reason": "结构清晰，术语准确，加粗强调核心概念，表达简洁明了"},
+      "Refuse": {"score": -1, "reason": "不涉及"}
+    }
+  }
+]

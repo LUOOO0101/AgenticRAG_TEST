@@ -1,0 +1,15 @@
+[
+  {
+    "record_id": "recvkGF7rEiWR",
+    "scores": {
+      "Faithfulness": {
+        "score": 5.0,
+        "reason": "回答核心结论与关键细节（七类上游犯罪及兜底条款、预防恐怖主义融资适用）均被召回文档id:1和id:2中的《反洗钱法(2024修订)》第二条原文充分支撑，无任何外推或违背。"
+      },
+      "Traceability": {
+        "score": 5.0,
+        "reason": "来源标注[^1][^2]真实对应retrieved_chunks中id:1和id:2，且对应片段完整支撑所有事实断言。"
+      }
+    }
+  }
+]

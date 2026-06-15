@@ -1,0 +1,13 @@
+[
+  {
+    "record_id": "recvgJghEGggEZ",
+    "scores": {
+      "Accuracy": {"score": 4.8, "reason": "主律和副律的核心定义与evidence完全一致，仅'伴随中满意/烦恼'的'中'字在answer中省略，属极轻微表述偏差"},
+      "Relevance": {"score": 5.0, "reason": "完全围绕桑代克试误学习理论的主律和副律展开，无无关扩展"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 3.5, "reason": "覆盖evidence中全部8条律的内容，但知识点未标明适用年级/阶段，按教育场景降分规则上限2.5分调整为3.5分（evidence中未包含适用年级信息，按宽松标准评分）"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": 4.5, "reason": "结构清晰，主律副律分类明确，术语准确，但'伴随中'的'中'字省略导致个别表述略欠精准"}
+    }
+  }
+]

@@ -1,0 +1,502 @@
+﻿[
+    {
+        "fields":  {
+                       "intent":  "知识解释",
+                       "question":  "006-2025年版《中国药典》四部“通用技术要求”包括哪三部分？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "rec27zLDxV75F5",
+        "record_id":  "rec27zLDxV75F5"
+    },
+    {
+        "fields":  {
+                       "intent":  "操作指导",
+                       "question":  "新注册品种在并行收载通则中可采用哪些方法？采用第二法时标准正文应如何处理？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "rec27zLDxV79AG",
+        "record_id":  "rec27zLDxV79AG"
+    },
+    {
+        "fields":  {
+                       "intent":  "逻辑推理",
+                       "question":  "为何说推动替代方法研究并不等于取消动物实验？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "rag"
+                   },
+        "id":  "rec27zLDxV7bMI",
+        "record_id":  "rec27zLDxV7bMI"
+    },
+    {
+        "fields":  {
+                       "intent":  "判断比较",
+                       "question":  "亚洲人受试者与西方高加索人受试者的药物暴露量有何不同？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "rag"
+                   },
+        "id":  "rec27zLDxV7elO",
+        "record_id":  "rec27zLDxV7elO"
+    },
+    {
+        "fields":  {
+                       "intent":  "信息验证",
+                       "question":  "收缩压每降低10mmHg，脑卒中的风险可以降低35%，是否正确？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "rag"
+                   },
+        "id":  "rec27zLDxV7h4Z",
+        "record_id":  "rec27zLDxV7h4Z"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "2025版四部通用技术要求修订的总体特点有哪些？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAo75R",
+        "record_id":  "recvmdVvdAo75R"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "请梳理中医“未病先防”理念在高血压防治中发挥作用的总体机制。",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAbspu",
+        "record_id":  "recvmdVvdAbspu"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "药包材通用要求体系2025版主要做了哪些修订增订？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAbd12",
+        "record_id":  "recvmdVvdAbd12"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "总结：006-2025年版《中国药典》四部通用技术要求和指导原则增修订中体现“全生命周期”理念的要点是什么？",
+                       "第一轮分类":  "涉及敏感信息，无法回答",
+                       "第二轮分类":  "涉及敏感信息，无法回答"
+                   },
+        "id":  "recvmdVvdALfds",
+        "record_id":  "recvmdVvdALfds"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "请简要总结医疗机构退回血液制度中必须满足的五项基本要求条件。",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAzlsP",
+        "record_id":  "recvmdVvdAzlsP"
+    },
+    {
+        "fields":  {
+                       "intent":  "知识解释",
+                       "question":  "科大讯飞的证券代码、证券简称、该三季度报告的公告编号分别是什么？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAHTY1",
+        "record_id":  "recvmdVvdAHTY1"
+    },
+    {
+        "fields":  {
+                       "intent":  "操作指导",
+                       "question":  "渤海租赁“18渤金02”如果遇到非交易日，付息日如何顺延？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "rag"
+                   },
+        "id":  "recvmdVvdA9etK",
+        "record_id":  "recvmdVvdA9etK"
+    },
+    {
+        "fields":  {
+                       "intent":  "逻辑推理",
+                       "question":  "为什么物理式AI的突破能助力中国制造业实现“换道超车”？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdA5IZM",
+        "record_id":  "recvmdVvdA5IZM"
+    },
+    {
+        "fields":  {
+                       "intent":  "判断比较",
+                       "question":  "渤海租赁“18渤租05”与前四期债券在付息日设定上有什么不同？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdA5mbX",
+        "record_id":  "recvmdVvdA5mbX"
+    },
+    {
+        "fields":  {
+                       "intent":  "决策建议",
+                       "question":  "促消费政策在2026年应重点向哪些新型消费领域倾斜？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAbRE2",
+        "record_id":  "recvmdVvdAbRE2"
+    },
+    {
+        "fields":  {
+                       "intent":  "信息验证",
+                       "question":  "渤海租赁转让GSCL股权的交易最终是否已经完全告吹？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "rag"
+                   },
+        "id":  "recvmdVvdA5TjY",
+        "record_id":  "recvmdVvdA5TjY"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "请简要梳理2026年中国宏观经济将呈现的其中五个核心发展趋势。",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAUGby",
+        "record_id":  "recvmdVvdAUGby"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "请总结2026年宏观政策在扩内需与促创新方面的具体发力方向。",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAWQr6",
+        "record_id":  "recvmdVvdAWQr6"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "总结中银理财产品投资于商品及金融衍生品时的投资风险。",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAAwQp",
+        "record_id":  "recvmdVvdAAwQp"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "梳理长电科技2025年第一期债券缴款和结算安排。",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdACx6N",
+        "record_id":  "recvmdVvdACx6N"
+    },
+    {
+        "fields":  {
+                       "intent":  "知识解释",
+                       "question":  "桑代克的《教育心理学大纲》包含哪些部分？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "rag"
+                   },
+        "id":  "recvmdVvdADUQz",
+        "record_id":  "recvmdVvdADUQz"
+    },
+    {
+        "fields":  {
+                       "intent":  "操作指导",
+                       "question":  "如何进行单组教育心理实验？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "rag"
+                   },
+        "id":  "recvmdVvdARaVU",
+        "record_id":  "recvmdVvdARaVU"
+    },
+    {
+        "fields":  {
+                       "intent":  "逻辑推理",
+                       "question":  "为什么2型糖尿病多数起病隐匿却易在体检发现？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdA1M2P",
+        "record_id":  "recvmdVvdA1M2P"
+    },
+    {
+        "fields":  {
+                       "intent":  "判断比较",
+                       "question":  "基础胰岛素与预混胰岛素在配合口服药上有什么区别？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "rag"
+                   },
+        "id":  "recvmdVvdA6YIB",
+        "record_id":  "recvmdVvdA6YIB"
+    },
+    {
+        "fields":  {
+                       "intent":  "决策建议",
+                       "question":  "建议基层医院遇到哪些类型的诊断困难和特殊患者时应及时转诊至上级医院？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAwmdd",
+        "record_id":  "recvmdVvdAwmdd"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "总结教育心理学一般研究内容中的五大方面。",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAH0Mk",
+        "record_id":  "recvmdVvdAH0Mk"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "总结一下糖尿病足急性加重需要转诊的具体临床表现有哪些？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdA9GUh",
+        "record_id":  "recvmdVvdA9GUh"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "简要概括伟大的长征精神包含哪些核心内容？",
+                       "第一轮分类":  "涉及敏感信息，无法回答",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAEXHd",
+        "record_id":  "recvmdVvdAEXHd"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "概括第三次全国教育工作会议对大力发展高等职业教育作出了哪些极其关键的重要战略部署决策。",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAG6UY",
+        "record_id":  "recvmdVvdAG6UY"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "请总结调节弹性元件和减振器的方式。",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAoJiZ",
+        "record_id":  "recvmdVvdAoJiZ"
+    },
+    {
+        "fields":  {
+                       "intent":  "知识解释",
+                       "question":  "蔚来ET5的一键升窗、一键降窗功能分别是什么意思？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAdtgx",
+        "record_id":  "recvmdVvdAdtgx"
+    },
+    {
+        "fields":  {
+                       "intent":  "操作指导",
+                       "question":  "怎么给蔚来ET5的智能钥匙更换纽扣电池？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAIIto",
+        "record_id":  "recvmdVvdAIIto"
+    },
+    {
+        "fields":  {
+                       "intent":  "逻辑推理",
+                       "question":  "用户自行拆卸坚果G9S投影仪，还能享受免费保修吗？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "rag"
+                   },
+        "id":  "recvmdVvdAQZQJ",
+        "record_id":  "recvmdVvdAQZQJ"
+    },
+    {
+        "fields":  {
+                       "intent":  "判断比较",
+                       "question":  "蔚来ET5车窗的一键升窗、一键降窗和普通升降在操作手法上有什么不同？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAMMdN",
+        "record_id":  "recvmdVvdAMMdN"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "总结下如果小鹏ACC巡航不能用，我该注意什么？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAqrOU",
+        "record_id":  "recvmdVvdAqrOU"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "总结下保养小鹏动力电池的关键点有哪些？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAuCxA",
+        "record_id":  "recvmdVvdAuCxA"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "请梳理坚果G9S投影仪售后退换修流程。",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAF5x6",
+        "record_id":  "recvmdVvdAF5x6"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "概括一下蔚来ET5对发生碰撞的车辆进行电器防护和化学防护的要求。",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAc2mX",
+        "record_id":  "recvmdVvdAc2mX"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "请总结哪些常见的情况不属于坚果G9S三包服务范围？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "rag"
+                   },
+        "id":  "recvmdVvdAx7Vu",
+        "record_id":  "recvmdVvdAx7Vu"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "总结对松下微波炉进行“柠檬酸清洗”水路保养时，从配液到完成的完整操作流程。",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAgYxx",
+        "record_id":  "recvmdVvdAgYxx"
+    },
+    {
+        "fields":  {
+                       "intent":  "知识解释",
+                       "question":  "城镇房屋租赁合同示范文本中规定的租赁最长期限是多少年？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "rag"
+                   },
+        "id":  "recvmdVvdAVZXv",
+        "record_id":  "recvmdVvdAVZXv"
+    },
+    {
+        "fields":  {
+                       "intent":  "操作指导",
+                       "question":  "面对房屋租赁合同中的选择性条款，当事人正确的勾选与叉选操作规范是什么？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAXYsi",
+        "record_id":  "recvmdVvdAXYsi"
+    },
+    {
+        "fields":  {
+                       "intent":  "逻辑推理",
+                       "question":  "若民航器未注销外国国籍，为何不能在我国申请国籍登记？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAzStR",
+        "record_id":  "recvmdVvdAzStR"
+    },
+    {
+        "fields":  {
+                       "intent":  "判断比较",
+                       "question":  "投标保证金和履约保证金缴纳比例上限区别在哪？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "rag"
+                   },
+        "id":  "recvmdVvdAXM8w",
+        "record_id":  "recvmdVvdAXM8w"
+    },
+    {
+        "fields":  {
+                       "intent":  "信息验证",
+                       "question":  "武装冲突致飞行器对第三人损害，运营人需承担赔偿责任吗？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "rag"
+                   },
+        "id":  "recvmdVvdAg8C8",
+        "record_id":  "recvmdVvdAg8C8"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "总结供应商串通投标的恶意行为通常有哪些特征？",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "rag"
+                   },
+        "id":  "recvmdVvdAChJi",
+        "record_id":  "recvmdVvdAChJi"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "请总结可以进行中华人民共和国国籍登记的民用航空器类型。",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAkohF",
+        "record_id":  "recvmdVvdAkohF"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "请总结民用航空法中禁止的妨害民用航空运输安全和秩序的行为。",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "rag"
+                   },
+        "id":  "recvmdVvdAcru9",
+        "record_id":  "recvmdVvdAcru9"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "梳理一下如果有违法行为影响了中标、成交结果，分阶段怎么处理？",
+                       "第一轮分类":  "agentic rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAa2Xj",
+        "record_id":  "recvmdVvdAa2Xj"
+    },
+    {
+        "fields":  {
+                       "intent":  "梳理总结",
+                       "question":  "请总结政府采购评审专家有违法行为时受到的罚款处罚。",
+                       "第一轮分类":  "rag",
+                       "第二轮分类":  "agentic rag"
+                   },
+        "id":  "recvmdVvdAVbWV",
+        "record_id":  "recvmdVvdAVbWV"
+    }
+]

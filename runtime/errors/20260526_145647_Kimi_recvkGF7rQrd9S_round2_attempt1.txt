@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "recvkGF7rQrd9S",
+    "scores": {
+      "Accuracy": {"score": 5.0, "reason": "与evidence完全一致，明确指出示范文本由国家市场监督管理总局制定，纠正了用户关于住建部的误解，事实准确无误。"},
+      "Relevance": {"score": 5.0, "reason": "完全紧扣用户问题，直接回应"是否由住建部单独制定"的核心疑问，无无关扩展。"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 4.5, "reason": "evidence中未包含相关细节，按宽松标准评分。核心事实已完整呈现，但未进一步说明制定背景或与其他部门的协作关系。"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": 5.0, "reason": "表述简洁清晰，直接否定错误认知并给出正确答案，结构明确无歧义。"},
+      "Refuse": {"score": -1, "reason": "不涉及"}
+    }
+  }
+]

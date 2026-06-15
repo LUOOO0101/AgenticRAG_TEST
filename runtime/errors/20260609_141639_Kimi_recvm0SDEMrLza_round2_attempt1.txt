@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "recvm0SDEMrza",
+    "scores": {
+      "Accuracy": {"score": 4.8, "reason": "与evidence事实点全部一致，运动类型、强度计算方式、时长、禁忌情况均准确，超出evidence的表述（如\"具体建议如下\"）无矛盾，按宽松标准评分"},
+      "Relevance": {"score": 5.0, "reason": "完全围绕2型糖尿病患者运动锻炼建议展开，所有内容直接服务于问题，无无关扩展"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 4.2, "reason": "覆盖evidence中全部关键点：运动类型、强度计算、时长、禁忌情况及恢复条件，evidence中未包含年级/阶段等适用范围信息，按宽松标准评分"},
+      "Action": {"score": 4.5, "reason": "问题要求\"建议\"属于决策建议类，提供了可落地的并列要点（类型、强度、时长、禁忌），结构清晰可执行，前置知识要求（如心率计算）已隐含说明"},
+      "Clarity": {"score": 4.5, "reason": "结构清晰，分点明确，术语准确，目标受众（患者/基层医生）认知水平匹配，无冗余歧义"},
+      "Refuse": {"score": -1, "reason": "不涉及"}
+    }
+  }
+]

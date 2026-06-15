@@ -1,0 +1,13 @@
+[
+  {
+    "record_id": "recvlV0GCOQTMi",
+    "scores": {
+      "Accuracy": {"score": 4.5, "reason": "核心特征描述与evidence一致，但'单一学科、封闭僵化固定'等表述超出evidence范围，按宽松标准评分"},
+      "Relevance": {"score": 5.0, "reason": "完全围绕传统大学本科教育人才特征展开，无无关扩展"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 3.5, "reason": "知识点未标明适用年级/阶段，按教育场景降分规则处理；evidence中未包含相关细节，按宽松标准评分"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": 4.2, "reason": "结构清晰，分点阐述特征，术语准确，但引用标记[^n]未在evidence中明确对应来源不影响评分"}
+    }
+  }
+]

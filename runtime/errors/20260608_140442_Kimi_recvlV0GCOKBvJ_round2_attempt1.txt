@@ -1,0 +1,13 @@
+[
+  {
+    "record_id": "recvlV0GCOKBvJ",
+    "scores": {
+      "Accuracy": {"score": 5.0, "reason": "五大方面的内容与evidence完全一致，事实准确无误"},
+      "Relevance": {"score": 5.0, "reason": "完全围绕用户问题总结五大方面，无无关扩展"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 4.5, "reason": "覆盖evidence中全部五大方面，但知识点未标明适用年级/阶段，按教育场景降分规则上限2.5分不适用，因evidence本身未包含年级信息，按宽松标准评分"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": 4.8, "reason": "结构清晰，分条列举，术语准确，层次分明"}
+    }
+  }
+]

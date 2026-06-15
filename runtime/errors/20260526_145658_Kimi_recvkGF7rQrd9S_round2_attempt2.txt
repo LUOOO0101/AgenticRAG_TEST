@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "recvkGF7rQrd9S",
+    "scores": {
+      "Accuracy": {"score": 5.0, "reason": "回答明确指出示范文本由国家市场监督管理总局制定，与evidence完全一致，事实准确无误。"},
+      "Relevance": {"score": 5.0, "reason": "完全围绕用户问题作答，直接回应了"是否由住建部单独制定"这一核心疑问，无无关扩展。"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": -1, "reason": "不涉及"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": 4.5, "reason": "表述清晰简洁，直接给出结论并说明正确制定主体，结构明了。"},
+      "Refuse": {"score": -1, "reason": "不涉及"}
+    }
+  }
+]

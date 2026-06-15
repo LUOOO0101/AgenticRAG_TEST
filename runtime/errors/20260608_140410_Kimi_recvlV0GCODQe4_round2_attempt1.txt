@@ -1,0 +1,13 @@
+[
+  {
+    "record_id": "recvlV0GCODQe4",
+    "scores": {
+      "Accuracy": {"score": 4.8, "reason": "主律和副律的核心定义与evidence完全一致，仅'效果律'中'伴随中满意/烦恼'的'中'字在answer中省略，属极轻微表述偏差"},
+      "Relevance": {"score": 5.0, "reason": "完全围绕桑代克试误学习理论的主律和副律展开，所有内容直接服务于问题，无无关扩展"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 3.5, "reason": "覆盖evidence中全部3条主律和5条副律，但知识点未标明适用年级/阶段，按教育场景降分规则上限2.5分，实际覆盖完整取3.5分"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": 4.5, "reason": "结构清晰，主律副律分层明确，术语准确，但'类化反应律'中'最类似情境'的表述略冗余，整体表达难度与目标受众认知水平匹配"}
+    }
+  }
+]

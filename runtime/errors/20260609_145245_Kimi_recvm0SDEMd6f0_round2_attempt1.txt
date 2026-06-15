@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "recvm0SDEMd0f0",
+    "scores": {
+      "Accuracy": {"score": 5.0, "reason": "与evidence完全一致，准确陈述了2型糖尿病患者个人史需询问吸烟、饮酒情况。"},
+      "Relevance": {"score": 5.0, "reason": "完全紧扣问题，直接回应医生询问2型糖尿病患者个人史的具体内容。"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 3.5, "reason": "evidence中仅包含吸烟、饮酒两项，回答完整覆盖了evidence内容；但evidence未包含其他可能的个人史维度，按宽松标准评分。"},
+      "Action": {"score": 4.2, "reason": "问题要求操作指导（询问什么），回答给出了明确的并列要点（吸烟、饮酒），可执行，但evidence中未包含前置知识要求说明，按宽松标准评分。"},
+      "Clarity": {"score": 5.0, "reason": "表述简洁清晰，直接列出需询问的两项内容，无冗余无歧义。"},
+      "Refuse": {"score": -1, "reason": "不涉及"}
+    }
+  }
+]

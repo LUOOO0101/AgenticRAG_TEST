@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "recvkGF7rQTsKX",
+    "scores": {
+      "Accuracy": {"score": 4.5, "reason": "核心事实与evidence一致，TMT板块、AI应用、汽车智能化等风险点准确；AI手机/AR眼镜的归类略有延伸，超出evidence，按宽松标准评分"},
+      "Relevance": {"score": 5.0, "reason": "完全围绕"宏观复苏不及预期时科技板块回调风险"展开，无无关扩展"},
+      "Reason": {"score": 4.0, "reason": "逻辑链条基本连贯，从宏观承压→盈利承压→估值下移→板块冲击的传导清晰；AI手机/AR眼镜的推理略有延伸，超出evidence，按宽松标准评分"},
+      "Completeness": {"score": 4.0, "reason": "覆盖evidence核心要点（TMT、AI应用、汽车智能化），但未明确提及"基金净值大幅波动"这一关键后果，边界说明略简"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": 4.5, "reason": "结构清晰，分点明确，术语准确；风险提示前置，符合金融场景要求"},
+      "Refuse": {"score": -1, "reason": "不涉及"}
+    }
+  }
+]

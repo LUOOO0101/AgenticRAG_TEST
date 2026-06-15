@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "recvviaE1WhXNpu",
+    "scores": {
+      "Accuracy": {"score": 5.0, "reason": "与evidence核心事实完全一致，准确转述了考古学家通过类比理解古代无文字社会制度的方法。"},
+      "Relevance": {"score": 5.0, "reason": "完全紧扣问题，直接回应考古学家理解古代无文字社会制度的方式，无无关扩展。"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 3.5, "reason": "evidence中仅包含类比这一核心方法，回答完整覆盖；但evidence未包含适用年级/阶段信息，按宽松标准评分。"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": 4.5, "reason": "结构清晰，术语准确，通过加粗和引用标注使关键概念突出，表达简洁明了。"},
+      "Refuse": {"score": -1, "reason": "不涉及"}
+    }
+  }
+]

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Knowledge Eval DM"
+  short_description: "双模型评估并对比飞书 DM 知识问答质量"
+  default_prompt: "Use $knowledge-eval-dm to run Kimi and DeepSeek DM knowledge-base evaluation on a Feishu Bitable, then generate model reports and a consistency report."
+
+policy:
+  allow_implicit_invocation: true

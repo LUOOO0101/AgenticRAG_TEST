@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "recvkGF7rQypGr",
+    "scores": {
+      "Accuracy": {"score": 4.8, "reason": "核心事实准确：维果斯基文化发展论提出于20s-30s而非60s，与evidence一致；超出evidence，按宽松标准评分"},
+      "Relevance": {"score": 5.0, "reason": "完全围绕用户问题的时间判断展开，直接回应了60年代说法的正误"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": -1, "reason": "不涉及"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": {"score": 4.5, "reason": "结构清晰，先否定再给出正确时间并标注时期，术语准确"},
+      "Refuse": {"score": -1, "reason": "不涉及"}
+    }
+  }
+]

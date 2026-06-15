@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "recvviaE1Wh1WKW",
+    "scores": {
+      "Accuracy": {"score": 3.5, "reason": "核心方向正确，但存在多处与evidence不一致或超出evidence的内容：'按学科划分'的对比、'1:1学时比例'、'数字经济''双师型教师'等均未在evidence中体现，超出evidence，按宽松标准评分"},
+      "Relevance": {"score": 4.5, "reason": "回答紧扣专业和课程设置问题，内容直接服务于用户意图，仅有少量扩展内容"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 2.5, "reason": "evidence仅包含极简描述，回答大量补充未验证内容；且未标明适用年级/阶段，触发教育场景降分规则"},
+      "Action": {"score": 3.8, "reason": "提供了并列要点形式的行动框架，但部分要点（如数字经济、双师型教师）缺乏前置知识要求说明，触发教育场景降分规则"},
+      "Clarity": {"score": 4.2, "reason": "结构清晰，分点明确，术语使用较准确，但部分内容难度与高等职业教育受众认知水平匹配度一般"},
+      "Refuse": {"score": -1, "reason": "不涉及"}
+    }
+  }
+]

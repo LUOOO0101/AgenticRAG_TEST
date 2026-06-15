@@ -1,0 +1,9 @@
+[
+  {
+    "record_id": "recvviaE1Wh7IVT",
+    "scores": {
+      "Faithfulness": {"score": 4.5, "reason": "回答核心结论被召回内容直接支持，片段1明确提到'随夏天迁徙到山区、冬天迁徙到平原的动物而迁移'，与回答表述一致，仅细节概括略粗。"},
+      "Traceability": {"score": 4.5, "reason": "来源标注[^1]真实对应到retrieved_chunks中id为1的片段，且该片段内容能够支撑'夏天迁往山区、冬天迁往平原'的断言，标注准确。"}
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "record_id": "recvlV0GCOurog",
+    "scores": {
+      "Accuracy": {"score": 4.5, "reason": "核心事实与evidence一致，但answer中具体数值（刚度、偏频、动挠度等）超出evidence范围，按宽松标准评分；无常识性错误"},
+      "Relevance": {"score": 5.0, "reason": "完全围绕悬架系统性能参数展开，所有内容直接服务于问题，无无关扩展"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 3.5, "reason": "知识点未标明适用年级/阶段，按教育场景降分规则处理；evidence中未包含相关细节，按宽松标准评分"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": 4.2, "reason": "结构清晰，分点说明刚度、阻尼、自振频率、动挠度，术语准确，但具体数值细节对一般知识解释场景略显冗余"}
+    }
+  }
+]

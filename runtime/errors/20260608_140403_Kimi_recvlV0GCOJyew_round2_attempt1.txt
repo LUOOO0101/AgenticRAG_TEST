@@ -1,0 +1,13 @@
+[
+  {
+    "record_id": "recvlV0GCOJyew",
+    "scores": {
+      "Accuracy": {"score": 4.8, "reason": "与evidence涉及的事实点全部一致，关键人物、事件、时间节点均准确，超出evidence的\"成熟时期\"表述为合理概括，按宽松标准评分"},
+      "Relevance": {"score": 5.0, "reason": "完全围绕教育心理学60-70年代进展展开，所有内容直接服务于问题，无无关扩展"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 4.2, "reason": "覆盖evidence中全部关键点（布鲁纳课程改革、奥苏贝尔有意义学习、加涅学习分类、三大趋势），遗漏\"晚近以来转向学生心理探讨\"这一非核心补充，知识点未标明适用年级/阶段，按教育场景降分规则处理"},
+      "Action": {"score": -1, "reason": "不涉及"},
+      "Clarity": {"score": 4.5, "reason": "结构清晰，时间线分明，要点突出，术语准确，阅读无障碍"}
+    }
+  }
+]

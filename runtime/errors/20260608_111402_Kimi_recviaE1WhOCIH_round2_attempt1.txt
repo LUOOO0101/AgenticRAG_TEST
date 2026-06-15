@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "recvviaE1WhOCIH",
+    "scores": {
+      "Accuracy": {"score": 4.8, "reason": "与evidence核心事实完全一致，'三改一补'方针表述准确，仅省略了'以发展高等职业技术教育'这一目的性表述，属非关键细节省略"},
+      "Relevance": {"score": 5.0, "reason": "完全围绕用户问题'如何调整'展开，所有内容直接服务于问题，无无关扩展"},
+      "Reason": {"score": -1, "reason": "不涉及"},
+      "Completeness": {"score": 3.5, "reason": "evidence中明确包含'以发展高等职业技术教育'这一目的说明，answer未提及，存在次要信息遗漏；按教育场景降分规则，知识点未标明适用阶段，但evidence本身未包含年级/阶段信息，不适用该降分"},
+      "Action": {"score": 4.2, "reason": "问题明确要求'如何调整'，answer提供了清晰的并列要点（改革/改组/改制路径+三改一补方针），行动框架可落地；按教育场景降分规则，操作指导未说明前置知识要求，但evidence中未包含相关细节，按宽松标准评分"},
+      "Clarity": {"score": 4.5, "reason": "结构清晰，术语准确，'三改一补'用括号补充说明，层次分明，阅读无障碍"},
+      "Refuse": {"score": -1, "reason": "不涉及"}
+    }
+  }
+]
